@@ -1,12 +1,15 @@
 #logo {
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     margin: 2rem;
     text-align: left;
     font-family: 'Lucida Grande', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgb(239, 102, 16), rgb(69, 0, 218));
+    border-color: rgb(255, 255, 255);
+    border: 10px;
 }
 
 body {
-    background-image: linear-gradient(rgb(27, 27, 230), rgb(179, 160, 160));
+    background-image: linear-gradient(rgb(6, 6, 66), rgb(20, 36, 90));
     background-size: 100%;
     text-align: center;
 
@@ -22,6 +25,8 @@ body {
 .tophead {
     border: 2px solid black;
     width: 300px ;
+    background-color: rgb(234, 227, 227);
+    color: black;
 }
 
 .span {
